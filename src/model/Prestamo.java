@@ -3,6 +3,8 @@ package model;
 import java.util.UUID;
 
 public class Prestamo {
+
+
     private String id;
     private double monto;
     private double tasaInteres;
